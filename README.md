@@ -1,16 +1,14 @@
-## Hi there 👋
+## ¡Hola! Soy Pablo Moraga 👋
 
-<!--
-**pablomoraga/pablomoraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Maestro de Educación Primaria. Creo recursos educativos abiertos de **robótica y programación** para el aula con eXeLearning.
 
-Here are some ideas to get you started:
+### 📚 Mis recursos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Recurso | De qué trata | Licencia |
+|---|---|---|
+| [Un hogar inteligente](https://pablomoraga.github.io/microbitcasainteligente/) | REA para 5º de Primaria: diseñar y programar una casa inteligente con micro:bit y MakeCode | CC BY-NC-SA 4.0 |
+| [Conoce micro:bit](https://pablomoraga.github.io/conocemicrobit/) | Conocer la placa micro:bit v2 y programarla con MakeCode mediante misiones | CC BY-SA 4.0 |
+| [Taller micro:bit](https://pablomoraga.github.io/tallermicrobit/) | Taller con 8 misiones de MakeCode y un proyecto simulado | CC BY-SA 4.0 |
+| [EASYPlug y ArduinoBlocks](https://pablomoraga.github.io/tallerEASYPlug/) | Taller con sensores *plug-and-play* de Keyestudio y ArduinoBlocks | CC BY-SA 4.0 |
+
+Todos los recursos se pueden usar, adaptar y compartir citando la autoría.
