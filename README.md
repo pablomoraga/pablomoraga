@@ -11,5 +11,6 @@ Maestro de Educación Primaria. Creo recursos educativos abiertos de **robótica
 | [Taller micro:bit](https://pablomoraga.github.io/tallermicrobit/) | Taller con 8 misiones de MakeCode y un proyecto simulado | CC BY-SA 4.0 |
 | [EASYPlug y ArduinoBlocks](https://pablomoraga.github.io/tallerEASYPlug/) | Taller con sensores *plug-and-play* de Keyestudio y ArduinoBlocks | CC BY-SA 4.0 |
 | [Moon Camp](https://pablomoraga.github.io/mooncamp/) | Proyecto STEAM espacial con ESEROver y Moon Garden, en colaboración con el Club Robótica Granada | CC BY-NC-SA 4.0 |
+| [ESEROver](https://pablomoraga.github.io/eserover/) | El rover de Moon Camp: Cutebot con micro:STEAMakers, retos con contraseña e IoT, en colaboración con el Club Robótica Granada | CC BY-NC-SA 4.0 |
 
 🌐 Portada con todos mis recursos: **[pablomoraga.github.io](https://pablomoraga.github.io/)**
